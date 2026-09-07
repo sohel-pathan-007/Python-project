@@ -41,7 +41,7 @@ for i in range(2):
         if valid_name:
             break
         else:
-            print("Error: Every name should start with a capital letter and remaining letters should be small")
+            print("Error:Every name should start with a capital letter and remaining letters should be small")
 
     # validation phone
     while True:
